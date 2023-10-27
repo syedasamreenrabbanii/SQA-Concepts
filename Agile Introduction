@@ -1,0 +1,30 @@
+Agile:
+Roles and Responsibilities: 
+In Agile, there are various roles like Product Owner, Scrum Master, and Development Team members.
+The Product Owner is responsible for defining and prioritizing the product backlog.
+The Scrum Master ensures that the Agile principles and processes are followed, while the Development Team is responsible for delivering the product increment.
+
+Process:
+Agile is a flexible and iterative approach to software development. It emphasizes customer collaboration, responding to change, and delivering working software in short iterations. 
+It involves continuously adapting to evolving requirements.
+
+Scrum:
+
+Roles and Responsibilities:
+In Scrum, there are three primary roles - Product Owner, Scrum Master, and Development Team. 
+The Product Owner manages the product backlog, the Scrum Master facilitates the Scrum process, and the Development Team is responsible for delivering increments of the product.
+Process: Scrum is a specific Agile framework that operates in time-boxed iterations known as sprints. 
+It involves daily stand-up meetings, sprint planning, sprint review, and sprint retrospective. Scrum aims to deliver a potentially shippable product increment at the end of each sprint.
+
+Kanban:
+Roles and Responsibilities: Kanban is less prescriptive about roles. It can be applied to various teams and doesn't define specific roles like Scrum does.
+However, there is typically a Kanban system manager or coordinator responsible for the flow of work on the board.
+Process: Kanban is a visual process management method that focuses on flow and limiting work in progress (WIP).
+Work items are represented on a Kanban board, and the process is driven by demand. When one task is completed, the team can pull the next one from the backlog, aiming for a continuous flow of work.
+In summary, Agile is a broader philosophy, while Scrum and Kanban are specific frameworks within the Agile approach. 
+Scrum is characterized by defined roles, ceremonies, and fixed time-boxed iterations, while Kanban offers more flexibility with roles and emphasizes flow and WIP limits. 
+The choice between Scrum and Kanban depends on the specific needs and constraints of your project.
+
+
+
+
